@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">30 días de Bienestar</string>
+    <string name="titulo_dia1">Día 1</string>
+    <string name="sugerencia_dia1">Inicia el día con una meditación de 5 minutos para centrarte en tus objetivos.</string>
+    <string name="titulo_dia2">Día 2</string>
+    <string name="sugerencia_dia2">Practica un ejercicio de respiración profunda para reducir el estrés.</string>
+    <string name="titulo_dia3">Día 3</string>
+    <string name="sugerencia_dia3">LLevar un registro de tus pensamientos y pensamientos para reflexionar sobre tus emociones.</string>
+    <string name="titulo_dia4">Día 4</string>
+    <string name="sugerencia_dia4">Aprovecha el tiempo libre para hacer algo que te guste y te relaje.</string>
+    <string name="titulo_dia5">Día 5</string>
+    <string name="sugerencia_dia5">Practica una técnica de mindfulness para mejorar tu concentración.</string>
+    <string name="titulo_dia6">Día 6</string>
+    <string name="sugerencia_dia6">Haz ejercicio de yoga para mejorar tu flexibilidad y equilibrio.</string>
+    <string name="titulo_dia7">Día 7</string>
+    <string name="sugerencia_dia7">Aprovecha el sol para hacer paseo al aire libre y disfrutar de la naturaleza.</string>
+    <string name="titulo_dia8">Día 8</string>
+    <string name="sugerencia_dia8">LLevar un registro de tus hábitos saludables para identificar áreas de mejora.</string>
+    <string name="titulo_dia9">Día 9</string>
+    <string name="sugerencia_dia9">Aprovecha el tiempo libre para leer un libro o escuchar música que te guste.</string>
+    <string name="titulo_dia10">Día 10</string>
+    <string name="sugerencia_dia10"></string>
+
+
+</resources>
